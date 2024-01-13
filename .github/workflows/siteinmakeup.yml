@@ -1,0 +1,64 @@
+<html>
+   <head>
+       <title>Название моего сайта</title>
+       <link rel="stylesheets" href="style.css"/>
+   </head>    
+   <body>
+       <header> 
+        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFYXbrAEYuHlVGxVJIUtE0roAa3HUtCpt2Pne8WXw2yWxWTqWG"/>
+       <button></button>
+       <button></button>
+       <button></button>
+       </header>
+       <main>
+           <h1>Дельфинарий <br> приглашает</h1>
+           <h2>Из первых уст</h2>
+        <table>
+            <tr>
+                <td>Моя первая поездка в дельфинарий была летом 2010 года. Тогда я видел дельфинов с небольшого расстояния и меня особенно поразила их дружелюбность. Они как будто стремятся к общению с человеком. Язык дельфинов очень выразителен и чем-то напоминает наш. Они эмоциональны, подвижны, любят играть друг с другом и с людьми. Особенно мне запомнились дельфины Макс и Джессика. Они играли в мяч и отлично работали в паре. Мне дали погладить обоих и дельфины охотно шли на контакт. Я обязательно ещё приду в дельфинарий, потому что в этот раз мне не удалось сделать удачные фото. Нужно взять с собой профессиональный фотоаппарат с защитой от воды: при близком контакте с дельфином брызги так и летят!<br>
+                <img class="class" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXs_xiqW-y8D4_bXOqT7j89Pw_DOnOUD-dvGmIBr02xh3va-0J"/>
+                <img class="class1" src="https://tickets.afisha.life/photos/1/events/336379P35/336379P35-be.jpg"/>
+                 <img class="class2" src="https://mug-thermoreactif.fr/img/cms/Animaux/Dauphin.png"/>
+                 <img class="class3" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIGsEx4tt7MX1zBaErkzQI1hxgPd58YY8C8IScwr_Qz_gAsFbQ"/>
+                 <img class="class4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmC0kji6X-AN2pD3Hyn4B-EyF6MVdYD35T-DY7mJrJUNA8NoqW"/>
+                
+                </td>
+            </tr>
+        </table>
+       <h2>На экскурсии</h2>
+       <table>
+            <tr>
+                <td>Экскурсия проводится для группы не менее 5-ти человек. Она начинается с осмотра залов, в которых проходят представления, нас знакомят с дельфинами и рассказывают о них. Вместе с тем мы узнаём об истории дельфинария. В процессе экскурсии мы знакомимся с дрессировщиками, они рассказывают о своем опыте и приводят забавные примеры. Затем нам показывают представление: два дельфина и три морских котика выполняют упражнения и развлекают нас красочным шоу в течение получаса. После этого дельфинов можно потрогать, узнать их имена и связанные с ними истории. Это очень увлекательный опыт общения с разумными существами. После экскурсии можно приобрести сувениры в кассе дельфинария.<br>
+                <img class="class5" src="https://www.livekuban.ru/sites/default/files/styles/news/public/node/news/main-image/2020-11/dolphin_1132843_960_720.jpg?itok=CNgvGgzU"/>
+                <img class="class6" src="https://c.pxhere.com/photos/63/5a/dolphin_fountain_water_statue_sculpture_tourism_denver-1353520.jpg!d"/>
+                 <img class="class7" src="https://global-ocean.ru/wp-content/uploads/2021/02/pic-00541.jpg"/>
+                 <img class="class8" src="https://static.tildacdn.com/tild3637-6638-4235-a639-393235353666/is8Ga2c1em8.jpg"/>
+                 <img class="class9" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnEuJOotx2bAN2pBW2hkcGDXAvlu0sQxHmM9HhR9f830lAb6h"/>
+                
+                </td>
+            </tr>
+        </table>
+       <h2>Детское шоу</h2>
+        <table>
+            <tr>
+                <td>По выходным проводятся шоу, рассчитанные в первую очередь на детей. Малыши обожают дельфинов, их игры и представления. Дельфины выполняют указания дрессировщиков, как будто играя, кажется, что они улыбаются. Есть несколько разных по продолжительности программ, от каждой из которых у зрителей остаются незабываемые впечатления. Билеты на шоу лучше всего приобретать заранее: доступно бронирование по телефону, которое позволяет попасть на любое шоу данного дня, на котором будут места. Также билеты можно приобрести в кассе дельфинария — тогда у вас будет билет на конкретное шоу, независимо от того, сколько будет на нем зрителей.<br>
+                <img class="class10" src="https://vetandlife.ru/wp-content/uploads/2021/02/43f0271733bc6e696f58d4abf1d9ac41.jpg">
+                <img class="class11" src="https://aif-s3.aif.ru/images/032/973/bd142ee05b8f4f9b2ae3ea44aaa360ab.jpg"/>
+                 <img class="class12" src="https://aif-s3.aif.ru/images/020/142/2f80b366d497c4223a1dc611d37b7fa1.jpg"/>
+                 <img class="class13" src="https://kuban24.tv/wp-content/uploads/2021/01/animal-1869337_640-600x300.jpg"/>
+                 <img class="class14" src="https://avatars.dzeninfra.ru/get-zen_doc/1336031/pub_5b167cdc7425f5612e2603be_5b167ce3c71a923cfb5d751d/scale_1200"/>
+                
+                </td>
+            </tr>
+        </table>
+
+       </main>
+       <footer>
+       <h4>l</h4>
+       <h3>Адрес</h3>
+       <h6></h6>
+       <h3>Телефон</h3>
+       <h4>l</h4>
+       </footer>
+   </body>
+</html>    
